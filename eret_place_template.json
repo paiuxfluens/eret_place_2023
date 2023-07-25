@@ -1,10 +1,11 @@
 {
-  "contact": "paiux",
+  "faction": "/r/eret
+  "contact": "@paiux on discord, https://discord.gg/eret",
   "templates": [
     {
       "name": "Eret",
       "sources": [
-        "https://cdn.discordapp.com/attachments/967597981194915870/1133442965180780544/image.png"
+        "https://cdn.discordapp.com/attachments/967597981194915870/1133452775171305553/image.png"
       ],
       "x": 2167,
       "y": 1548
