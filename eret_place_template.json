@@ -1,0 +1,15 @@
+{
+  "contact": "paiux",
+  "templates": [
+    {
+      "name": "Eret",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/967597981194915870/1133442965180780544/image.png"
+      ],
+      "x": 2167,
+      "y": 1548
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
